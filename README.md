@@ -3,5 +3,6 @@
 Tested in Ganache.   
   
 To deploy:  
-truffle develop. 
-migrate --compile-all --reset --network ganache. 
+truffle develop  
+migrate --compile-all --reset --network ganache  
+
